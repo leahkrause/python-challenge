@@ -58,6 +58,10 @@ This code analyzes the votes and calculates results from data called [election_d
 
 * Identify the winner by the percentage of votes they won
 
+* Print output
+
+* Export output to text file
+
 Your analysis should look similar to the following:
 
 
